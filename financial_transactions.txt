@@ -1,0 +1,131 @@
+Rees:
+2018 Start: $100
+-$1 Chance Sisco
+Current Amount: $99
+
+Justin:
+2018 Start: $133
+-$2 Pick 27 Trade
+-$5 Blake Treinen
+-$2 Lance Lynn
+-$1 Marco Gonzales
+-$11 Jordan Hicks
+-$3 Andrew Triggs
+-$2 Ryan Zimmerman
+-$1 Yonny Chirinos
+-$1 Daulton Varsho
+-$10 Jorge Soler
+-$16 Fernando Romero
+-$3 Domingo German
+-$1 Delino DeShields
+-$3 Trevor Cahill
+-$1 Junior Guerra
+Current Amount: $71
+
+Varun:
+2018 Start: $91
+-$2 Pick 34 Trade
++$5 Pick 22 Trade
++$2 Pick 20 Trade
++$8 Justin Bour Trade
+-$6 Crstian Pache
++$3 Brett Gardner Trade
+-$11 Nick Pivetta
+-$1 Brad Boxberger
+-$1 Maikel Franco
+-$1 Kenyan Middleton
+-$1 Daniel Robertson
+-$14 Caleb Smith
+-$3 Eduardo Escobar
+-$1 Wander Javier
+-$1 Jeremy Jeffress
+Current Amount: $67
+
+Pronoy:
+2018 Start: $56
+-$3 Hunter Strickland
+-$1 CJ Cron
+-$1 James McCann
+-$1 Brandon Woodruff
++$2 Ryan Zimmerman
+-$16 Joey Luccehesi
+-$1 Jose Bautista
+-$3 Mac Williamson
+-$1 Zach Efflin
+-$4 Matt Adams
+-$2 Ben Zobrist
+Current Amount: $25
+
+Roy:
+2018 Start: $88
+-$3 Scooter Gennett
+-$3 AJ Minter
+-$5 Teoscar Hernandez
+-$2 Francisco Cervelli
+Current Amount: $75
+
+Abheek:
+2018 Start: $162
++$2 Pick 27 Trade
+-$5 Pick 22 Trade
+-$6 Jakob Junis
+-$7 Colton Welker
+-$1 Tyson Ross
+-$2 Jeremy Hellickson
+-$1 Maikel Franco
+-$3 Peter Alonso
+Current Amount: $139
+
+Gary:
+2018 Start: $139
++$2 Pick 34 Trade
+Current Amount: $141
+
+Austen:
+2018 Start: $127
+-$2 Pick 20 Trade
+-$1 Adam Ottavino
+-$1 Franchy Cordero
+-$1 Jason Heyward
+-$1 Scott Schebler
+-$1 Howie Kendrick
+-$1 Ryon Healy
+-$3 Daniel Winkler
+-$1 Daniel Mengden
+-$1 Andrew Heaney
+Current Amount: $114
+
+Peter:
+2018 Start: $186
+-$1 Tim Beckham
+-$1 Cameron Maybin
+-$1 Chris Davis
+-$1 Dominic Leone
+-$1 Shin Soo Choo
+-$8 Justin Bour Trade
+-$3 Brett Gardner Trade
+-$5 Christian Villanueva
+-$2 Bud Norris
+-$1 Danny Jansen
+-$3 Nick Markakis
+-$2 Bud Norris
+-$1 Jurickson Profar
+Current Amount: $156
+
+Goro:
+2018 Start: $162
+-$1 Tucker Barnhart
+-$1 Francisco Lindor
+-$1 Alex Gordon
+-$1 Jaime Barrie
+-$1 Kyle Freeland
+-$1 Clayton Richards
+-$1 Mathew Boyd
+-$1 Mark Reynolds
+-$1 Matt Kemp
+-$1 Logan Allen
+-$1 Dane Dunning
+-$1 Beau Burrows
+-$1 Bryse Wilson
+Current Amount: $149
+
